@@ -1,2 +1,3 @@
 ﻿  lzw435.cpp
-  lzw435.vcxproj -> D:\Visual Studio Projects\lzw435\Debug\lzw435.exe
+C:\Users\James\OneDrive\Documents\GitHub\LZW-Algorithms\lzw435\lzw435\lzw435.cpp(123,27): warning C4018: '<': signed/unsigned mismatch
+  lzw435.vcxproj -> C:\Users\James\OneDrive\Documents\GitHub\LZW-Algorithms\lzw435\Debug\lzw435.exe
